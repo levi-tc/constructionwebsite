@@ -7,11 +7,8 @@ import { useState, useEffect } from "react"
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { AnimatedCounter } from "@/components/animated-counter"
-import { ContactForm } from "@/components/contact-form"
 import { FadeIn } from "@/components/fade-in"
-import { ProjectCard } from "@/components/project-card"
 import { TestimonialCard } from "@/components/testimonial-card"
 
 export default function Home() {
