@@ -10,6 +10,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { AnimatedCounter } from "@/components/animated-counter"
 import { FadeIn } from "@/components/fade-in"
 import { TestimonialCard } from "@/components/testimonial-card"
+import "./globals.css"
 
 export default function Home() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
