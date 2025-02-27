@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#293241"/>
+  
+  <!-- Background Building -->
+  <rect x="50" y="100" width="700" height="300" fill="#3D5A80"/>
+  <rect x="350" y="300" width="100" height="100" fill="#3D5A80"/>
+  
+  <!-- Workers Group -->
+  <g transform="translate(200, 350)">
+    <!-- Worker 1 -->
+    <circle cx="0" cy="-40" r="20" fill="#EE6C4D"/>
+    <rect x="-15" y="-20" width="30" height="40" fill="#EE6C4D"/>
+    <rect x="-20" y="20" width="15" height="30" fill="#98C1D9"/>
+    <rect x="5" y="20" width="15" height="30" fill="#98C1D9"/>
+    <!-- Hard Hat -->
+    <path d="M-20,-45 L20,-45 L15,-55 L-15,-55 Z" fill="#F6D55C"/>
+  </g>
+  
+  <g transform="translate(300, 330)">
+    <!-- Worker 2 -->
+    <circle cx="0" cy="-40" r="20" fill="#E0FBFC"/>
+    <rect x="-15" y="-20" width="30" height="40" fill="#E0FBFC"/>
+    <rect x="-20" y="20" width="15" height="30" fill="#3D5A80"/>
+    <rect x="5" y="20" width="15" height="30" fill="#3D5A80"/>
+    <!-- Hard Hat -->
+    <path d="M-20,-45 L20,-45 L15,-55 L-15,-55 Z" fill="#F6D55C"/>
+  </g>
+  
+  <g transform="translate(400, 320)">
+    <!-- Worker 3 with blueprint -->
+    <circle cx="0" cy="-40" r="20" fill="#98C1D9"/>
+    <rect x="-15" y="-20" width="30" height="40" fill="#98C1D9"/>
+    <rect x="-20" y="20" width="15" height="30" fill="#293241"/>
+    <rect x="5" y="20" width="15" height="30" fill="#293241"/>
+    <!-- Hard Hat -->
+    <path d="M-20,-45 L20,-45 L15,-55 L-15,-55 Z" fill="#F6D55C"/>
+    <!-- Blueprint -->
+    <rect x="20" y="-30" width="40" height="30" fill="#E0FBFC"/>
+    <line x1="25" y1="-25" x2="55" y2="-25" stroke="#3D5A80" stroke-width="2"/>
+    <line x1="25" y1="-20" x2="55" y2="-20" stroke="#3D5A80" stroke-width="2"/>
+    <line x1="25" y1="-15" x2="55" y2="-15" stroke="#3D5A80" stroke-width="2"/>
+    <line x1="25" y1="-10" x2="45" y2="-10" stroke="#3D5A80" stroke-width="2"/>
+  </g>
+  
+  <g transform="translate(500, 340)">
+    <!-- Worker 4 -->
+    <circle cx="0" cy="-40" r="20" fill="#EE6C4D"/>
+    <rect x="-15" y="-20" width="30" height="40" fill="#EE6C4D"/>
+    <rect x="-20" y="20" width="15" height="30" fill="#E0FBFC"/>
+    <rect x="5" y="20" width="15" height="30" fill="#E0FBFC"/>
+    <!-- Hard Hat -->
+    <path d="M-20,-45 L20,-45 L15,-55 L-15,-55 Z" fill="#F6D55C"/>
+    <!-- Tool -->
+    <rect x="-40" y="-20" width="5" height="40" fill="#293241"/>
+  </g>
+  
+  <!-- Construction Equipment -->
+  <g transform="translate(600, 380)">
+    <!-- Crane Base -->
+    <rect x="-30" y="-30" width="60" height="30" fill="#EE6C4D"/>
+    <!-- Crane Arm -->
+    <rect x="-5" y="-130" width="10" height="100" fill="#EE6C4D"/>
+    <rect x="-60" y="-135" width="120" height="10" fill="#EE6C4D"/>
+    <line x1="-50" y1="-135" x2="-5" y2="-80" stroke="#293241" stroke-width="3"/>
+    <!-- Cable -->
+    <line x1="40" y1="-135" x2="40" y2="-80" stroke="#E0FBFC" stroke-width="2"/>
+    <rect x="30" y="-80" width="20" height="10" fill="#3D5A80"/>
+  </g>
+  
+  <!-- Building Frame Elements -->
+  <line x1="150" y1="150" x2="150" y2="300" stroke="#E0FBFC" stroke-width="5"/>
+  <line x1="250" y1="150" x2="250" y2="300" stroke="#E0FBFC" stroke-width="5"/>
+  <line x1="350" y1="150" x2="350" y2="300" stroke="#E0FBFC" stroke-width="5"/>
+  <line x1="450" y1="150" x2="450" y2="300" stroke="#E0FBFC" stroke-width="5"/>
+  <line x1="550" y1="150" x2="550" y2="300" stroke="#E0FBFC" stroke-width="5"/>
+  <line x1="650" y1="150" x2="650" y2="300" stroke="#E0FBFC" stroke-width="5"/>
+  
+  <line x1="150" y1="150" x2="650" y2="150" stroke="#E0FBFC" stroke-width="5"/>
+  <line x1="150" y1="200" x2="650" y2="200" stroke="#E0FBFC" stroke-width="5"/>
+  <line x1="150" y1="250" x2="650" y2="250" stroke="#E0FBFC" stroke-width="5"/>
+  <line x1="150" y1="300" x2="650" y2="300" stroke="#E0FBFC" stroke-width="5"/>
+</svg> 
