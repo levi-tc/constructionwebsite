@@ -127,12 +127,4 @@ The website includes comprehensive SEO metadata in `src/app/layout.tsx`, includi
 - Icons: [Lucide React](https://lucide.dev)
 - UI Components: [shadcn/ui](https://ui.shadcn.com)
 
-## License
 
-This project is proprietary and belongs to AMEC GRUP.
-
-## Contact
-
-For any inquiries about this website, please contact:
-- Phone: +40773928274
-- Website: [https://amecgrup.ro/](https://amecgrup.ro/)
